@@ -4,7 +4,8 @@ This course is designed to teach you the foundations in order to write simple pr
 
 We'll start off by diving into the basics of writing a computer program. Along the way, you’ll get hands-on experience with programming concepts through interactive exercises and real-world examples. You’ll quickly start to see how computers can perform a multitude of tasks — you just have to write code that tells them what to do.
 
-### WEEK 1: Hello Python!
+### WEEK 1
+### Hello Python!
 
 In this module, we’ll dive into the basics of programming languages and syntax, as well as automation using scripting. We’ll also introduce you to the Python programming language and some of the benefits it offers. Last up, we’ll cover some basic functions and keywords of the language, along with some arithmetic operations.
 
